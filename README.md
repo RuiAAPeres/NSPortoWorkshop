@@ -35,3 +35,7 @@ These topics, described above, are where I would focus primarily my attention. I
 * Delving into the `UIView`'s backing layer for simple and yet useful things like: `cornerRadius`, `borderColor` and others.
 * What can you do with Pop from Facebook.
 * Using UIKit Dynamics for fun and profit.
+
+## Feedback
+
+If you interested in giving a suggestion, please create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something send a Pull Request. 
