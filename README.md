@@ -37,7 +37,7 @@ These topics, described above, are where I would focus primarily my attention. I
 
 ## Who's this for?
 
-This workshop is aimed for novice to intermediate developers that are interested in knowing better ways of creating iOS applications. By the end of the workshop you should:
+This workshop is aimed for novice to intermediate developers who are interested in creating iOS apps and improving the way they do so. By the end of the workshop you should:
 
 * Have confidence and knowledge to create an application from scratch.
 * Comprehend different patterns that exist in iOS and know where and when to apply them.
@@ -50,15 +50,22 @@ This workshop is aimed for novice to intermediate developers that are interested
 The following should be met in order to make full use of the workshop:
 
 * [OOP](http://en.wikipedia.org/wiki/Object-oriented_programming) knowledge. It would be very difficult to follow if you don't have it, at least, on a basic level.
-* Some basic Git knowledge is advised but not essencial. 
+* Git knowledge is advised but not essencial. 
 * A Github account, so you can keep track of what you are doing during the workshop.
 * A Macintosh with Xcode 6.0. 
-* [Ruby](http://blog.zerosharp.com/installing-ruby-with-homebrew-and-rbenv-on-mac-os-x-mountain-lion/) installed and [Cocoapods](http://guides.cocoapods.org/using/getting-started.html). We will make use of some 3rd party libraries and it's important for you to get familiar with Cocoapods.
+* [Ruby](http://blog.zerosharp.com/installing-ruby-with-homebrew-and-rbenv-on-mac-os-x-mountain-lion/) and [Cocoapods](http://guides.cocoapods.org/using/getting-started.html) installed. We will make use of 3rd party libraries and it's important for you to get familiar with Cocoapods.
 
 ## Feedback
 
-Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something, or any bad formmating, please, send a Pull Request. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
+Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new).I will also accept Pull Requests. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
 
 ## F.A.Q
 
+** I don't know anything about programming, but I am interested, should I go?**
+I would advise against it. I will do a swift (no pun intended) revision on Objective-c, but how to actually code, no. You should be familiar with concepts like: `if`, `for`, `string`, `int`, `class`, `method`.
 
+** Will this be a paid workshop? If so, how much? **
+As it stands yes, as for the amount it depends on the amount of people that are interested and if I am able to find a place with the infrastructure necessary: space, internet, projector, etc. But I am setting a maximum of 200€ per person and minimum of 100€, depending on conditions described previously. 
+
+** Is there a limit to the amount of people who can attend? **
+I want to keep this at 15 people max. More people would jeopardize me being able to assist anyone with an issue and still being able to respect the schedule.
