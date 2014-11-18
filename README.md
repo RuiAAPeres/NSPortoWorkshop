@@ -70,5 +70,5 @@ As it stands yes, as for the amount it depends on the number of people that are 
 3. **Is there a limit to the amount of people who can attend?**
 I want to keep this at 15 people max. More people would jeopardize me being able to assist anyone with an issue and still being able to respect the schedule.
 
-4. **I am studend, but I can't afford it, is there any kind of discount?**
+4. **I am studend and I can't afford it, is there any kind of discount?**
 I will make a discount to students if there are spots left.
