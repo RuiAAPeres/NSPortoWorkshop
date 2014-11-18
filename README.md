@@ -34,6 +34,31 @@ These topics, described above, are where I would focus primarily my attention. I
 * What can you do with Pop from Facebook.
 * Using UIKit Dynamics for fun and profit.
 
+
+## Who's this for?
+
+This workshop is aimed for novice to intermediate developers that are interested in knowing better ways of creating iOS applications. By the end of the workshop you should:
+
+* Have confidence and knowledge to create an application from scratch.
+* Comprehend different patterns that exist in iOS and know where and when to apply them.
+* Produce code that is reusable, modular and maintainable.
+* Make tests a first class citizen on a project.
+* Understand the importance of contributing to open source as way of improving oneself. 
+
+## Requirements
+
+The following should be met in order to make full use of the workshop:
+
+* [OOP](http://en.wikipedia.org/wiki/Object-oriented_programming) knowledge. It would be very difficult to follow if you don't have it, at least, on a basic level.
+* Some basic Git knowledge is advised but not essencial. 
+* A Github account, so you can keep track of what you are doing during the workshop.
+* A Macintosh with Xcode 6.0. 
+* [Ruby](http://blog.zerosharp.com/installing-ruby-with-homebrew-and-rbenv-on-mac-os-x-mountain-lion/) installed and [Cocoapods](http://guides.cocoapods.org/using/getting-started.html). We will make use of some 3rd party libraries and it's important for you to get familiar with Cocoapods.
+
 ## Feedback
 
-If you interested in giving a suggestion, please create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something send a Pull Request. You can as well reach me via [email](mailto:rui.a.peres@gmail.com).
+Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something, or any bad formmating, please, send a Pull Request. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
+
+## F.A.Q
+
+
