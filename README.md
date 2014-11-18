@@ -62,10 +62,13 @@ Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoW
 ## F.A.Q
 
 1. **I don't know anything about programming, but I am interested, should I go?**
+
 I would advise against it. I will do a swift (no pun intended) revision on Objective-c, but how to actually code, no. You should be familiar with concepts like: `if`, `for`, `string`, `int`, `class`, `method`.
 
 2. **Will this be a paid workshop? If so, how much?**
+
 As it stands yes, as for the amount it depends on the amount of people that are interested and if I am able to find a place with the infrastructure necessary: space, internet, projector, etc. But I am setting a maximum of 200€ per person and minimum of 100€, depending on conditions described previously. 
 
 3. **Is there a limit to the amount of people who can attend?**
+
 I want to keep this at 15 people max. More people would jeopardize me being able to assist anyone with an issue and still being able to respect the schedule.
