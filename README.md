@@ -28,5 +28,10 @@ These are the kind of stuff where you would mostly spend your time on. Polishing
 * Architecture: both MVC and MVVM. I will try to cover them, where it makes sense, so you can have a taste of both.
 * Cocoapods: this will be a small addendum but that makes our life utterly simpler.
 
-These described above is where I will focus primarily my attention. 
+These topics, described above, are where I would focus primarily my attention. I would like as well to show some bits and pieces from `Core Animation` + Animation in iOS:
 
+* What can you actually do with it.
+* What's the difference between an implicit and an explicit animation and when to use one over the other.
+* Delving into the `UIView`'s backing layer for simple and yet useful things like: `cornerRadius`, `borderColor`.
+* What can you do with Pop from Facebook.
+* Using UIKit Dynamics for fun and profit.
