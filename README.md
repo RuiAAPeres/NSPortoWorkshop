@@ -32,6 +32,6 @@ These topics, described above, are where I would focus primarily my attention. I
 
 * What can you actually do with it.
 * What's the difference between an implicit and an explicit animation and when to use one over the other.
-* Delving into the `UIView`'s backing layer for simple and yet useful things like: `cornerRadius`, `borderColor`.
+* Delving into the `UIView`'s backing layer for simple and yet useful things like: `cornerRadius`, `borderColor` and others.
 * What can you do with Pop from Facebook.
 * Using UIKit Dynamics for fun and profit.
