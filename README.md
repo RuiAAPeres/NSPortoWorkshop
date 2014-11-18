@@ -38,4 +38,4 @@ These topics, described above, are where I would focus primarily my attention. I
 
 ## Feedback
 
-If you interested in giving a suggestion, please create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something send a Pull Request. You can as well reach me via [email](rui.a.peres@gmail.com).
+If you interested in giving a suggestion, please create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). On the other hand if I misspelled something send a Pull Request. You can as well reach me via [email](mailto:rui.a.peres@gmail.com).
