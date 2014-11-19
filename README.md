@@ -23,7 +23,7 @@ These are the kind of stuff where you would mostly spend your time on. Polishing
 * Idiomatic Objective-c code: writing code that experienced developers see and understand.
 * Common patterns where/how to use them: Delegation, KVO, Notification Center, Blocks.
 * Testing: because who has time for it, right?
-* Architecture: both [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) and [MVVM](). I will try to cover them, where it makes sense, so you can have a taste of both.
+* Architecture: both [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) and [MVVM](http://en.wikipedia.org/wiki/Model_View_ViewModel). I will try to cover them, where it makes sense, so you can have a taste of both.
 * Cocoapods: this will be a small addendum that makes our life utterly simpler.
 
 These topics, described above, are where I would focus primarily my attention. I would like as well to show some bits and pieces from `Core Animation` + Animation in iOS:
