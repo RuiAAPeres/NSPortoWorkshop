@@ -77,4 +77,4 @@ I will make a discount to students if there are spots left.
 I want to make in December, but this can be postpone to maximize the number of interested people.
 
 6. **Is there a possibility to make it with Swift?**
-Right now there isn't idiomatic code in Swift and the compiler, language and Xcode are not stable enough to risk making a workshop using it. So bottom line: right now, no, but in a near future possibly. Above all, I would like to show patterns that belong to Swift (functional paradigms) and not direct ports from Objective-c.
+Right now there isn't idiomatic code in Swift and the compiler, language and Xcode are not stable enough to risk making a workshop wiht it. So bottom line: right now, no, but in a near future possibly. Above all, I would like to show patterns that belong to Swift (functional paradigms) and not direct ports from Objective-c.
