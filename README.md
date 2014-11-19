@@ -43,7 +43,7 @@ This workshop is aimed for novice to intermediate developers who are interested 
 * Comprehend different patterns that exist in iOS and know where and when to apply them.
 * Produce code that is reusable, modular and maintainable.
 * Make tests a first class citizen on a project.
-* Understand the importance of contributing to open source as way of improving oneself. 
+* **Understand the importance of contributing to open source as way of improving oneself.**
 
 ## Requirements
 
