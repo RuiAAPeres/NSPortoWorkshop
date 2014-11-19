@@ -55,10 +55,6 @@ The following should be met in order to make full use of the workshop:
 * A Macintosh with Xcode 6.0. 
 * [Ruby](http://blog.zerosharp.com/installing-ruby-with-homebrew-and-rbenv-on-mac-os-x-mountain-lion/) and [Cocoapods](http://guides.cocoapods.org/using/getting-started.html) installed. We will make use of 3rd party libraries and it's important for you to get familiar with Cocoapods.
 
-## Feedback
-
-Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new).I will also accept Pull Requests. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
-
 ## F.A.Q
 
 1. **I don't know anything about programming, but I am interested, should I go?**
@@ -78,3 +74,7 @@ I want to make in December, but this can be postpone to maximize the number of i
 
 6. **Is there a possibility to make it with Swift?**
 Right now there isn't idiomatic code in Swift and the compiler, language and Xcode are not stable enough to risk making a workshop wiht it. So bottom line: right now, no, but in a near future possibly. Above all, I would like to show patterns that belong to Swift (functional paradigms) and not direct ports from Objective-c.
+
+## Feedback
+
+Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new).I will also accept Pull Requests. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
