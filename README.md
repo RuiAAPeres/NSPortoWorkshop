@@ -2,7 +2,7 @@
 
 ## Intro
 
-The workshop would be on a weekend and would be around 16hours. It would be around Architecture and coding best practices in **objctive-c**. The following frameworks are being considered to be used as part of the workshop (assume the use of `UIKit` and `Foundation` by default), ordered by importance:
+The workshop would be on a weekend and would be around 16hours. It would be around Architecture and coding best practices in **Objctive-c**. The following frameworks are being considered to be used as part of the workshop (assume the use of `UIKit` and `Foundation` by default), ordered by importance:
 
 * `Core Animation`
 * `Core Location`
@@ -68,7 +68,13 @@ I would advise against it. I will do a swift (no pun intended) revision on Objec
 As it stands yes, as for the amount it depends on the number of people that are interested and if I am able to find a place with the necessary infrastructure: space, internet, projector, etc. But I am setting a maximum of 200€ per person and minimum of 100€, depending on conditions described previously. 
 
 3. **Is there a limit to the amount of people who can attend?**
-I want to keep this at 15 people max. More people would jeopardize me being able to assist anyone with an issue and still being able to respect the schedule.
+I want to keep this at 15 people max. More people would jeopardise me being able to assist anyone with an issue and still being able to respect the schedule.
 
-4. **I am studend and I can't afford it, is there any kind of discount?**
+4. **I am student and I can't afford it, is there any kind of discount?**
 I will make a discount to students if there are spots left.
+
+5. **When will it be?**
+I want to make in December, but this can be postpone to maximize the number of interested people.
+
+6. **Is there a possibility to make it with Swift?**
+Right now there isn't idiomatic code in Swift and the compiler, language and Xcode are not stable enough to risk making a workshop using it. So bottom line: right now, no, but in a near future possibly. Above all, I would like to show patterns that belong to Swift (functional paradigms) and not direct ports from Objective-c.
