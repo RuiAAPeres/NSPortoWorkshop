@@ -2,7 +2,7 @@
 
 ## Intro
 
-The workshop would be on a weekend and would be around 16hours. It would be around Architecture and coding best practices in **Objctive-c**. The following frameworks are being considered to be used as part of the workshop (assume the use of `UIKit` and `Foundation` by default), ordered by importance:
+The workshop would be on a weekend and would be around 16hours. It would be around Architecture and coding best practices in **Objective-c**. The following frameworks are being considered to be used as part of the workshop (assume the use of `UIKit` and `Foundation` by default), ordered by importance:
 
 * `Core Animation`
 * `Core Location`
@@ -77,4 +77,4 @@ Right now there isn't idiomatic code in Swift and the compiler, language and Xco
 
 ## Feedback
 
-Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new).I will also accept Pull Requests. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
+Any suggestion, please, create an [issue](https://github.com/RuiAAPeres/NSPortoWorkshop/issues/new). I will also accept Pull Requests. If you prefer, you can reach me via [email](mailto:rui.a.peres@gmail.com).
